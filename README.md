@@ -1,4 +1,4 @@
-###👋 Hello, I'm Rahul Sinha
+### Hello, I'm Rahul Sinha  👋
 
 🎓 I'm a 17-year-old aspiring programmer with a passion for coding and problem-solving.
 
