@@ -11,17 +11,26 @@
 ---
 
 ## 🛠️ My Skills
-### 💻 Languages & Frameworks
-[![Languages](https://skillicons.dev/icons?i=py,cpp,js,html,css,nodejs,r,java)](https://skillicons.dev)
+### 🧑‍💻 Languages & Frameworks
 
-### 💻 Softwares
+| Python | C++ | JavaScript | HTML | CSS | Node.js | R | Java | Flask |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Python](https://skillicons.dev/icons?i=py) | ![C++](https://skillicons.dev/icons?i=cpp) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) | ![Node.js](https://skillicons.dev/icons?i=nodejs) | ![R](https://skillicons.dev/icons?i=r) | ![Java](https://skillicons.dev/icons?i=java) | ![Flask](https://skillicons.dev/icons?i=flask) |
 
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Photoshop](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
-[![Premiere Pro](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
-[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+### 💻 Software Tools
+
+| MySQL | Power BI | Jupyter Notebook | RStudio | Adobe Photoshop | Adobe Premiere Pro | Blender |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | <img src="./assets/logos/Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/> | <img src="./assets/logos/Jupyter_logo.svg" alt="Jupyter" width="50" height="50"/> | <img src="./assets/logos/RStudio.svg" alt="RStudio" width="50" height="50"/> | ![Photoshop](https://skillicons.dev/icons?i=ps) | ![Premiere Pro](https://skillicons.dev/icons?i=pr) | ![Blender](https://skillicons.dev/icons?i=blender) |
+
+
+### ☁️ Cloud
+
+| Google Cloud |
+|:---:|
+| <img src="./assets/logos/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/> |
+
 
 ---
 
